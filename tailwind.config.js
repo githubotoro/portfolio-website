@@ -7,6 +7,11 @@ module.exports = {
 	],
 	theme: {
 		extend: {
+			fontFamily: {
+				sans: ["var(--font-inter)"],
+				pacifico: ["var(--font-pacifico)"],
+				signika: ["var(--font-signika)"],
+			},
 			fontWeight: {
 				100: "100",
 				200: "200",
@@ -30,7 +35,7 @@ module.exports = {
 				isTealDark: "rgb(64, 200, 224)",
 				isCyanDark: "rgb(100, 210, 255)",
 				isBlueDark: "rgb(10, 132, 255)",
-				isIndgioDark: "rgb(94, 92, 230)",
+				isIndigoDark: "rgb(94, 92, 230)",
 				isPurpleDark: "rgb(191, 90, 242)",
 				isPinkDark: "rgb(255, 55, 95)",
 				isBrownDark: "rgb(172, 142, 104)",
