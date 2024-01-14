@@ -1,3 +1,4 @@
+import { DynamicBar } from "@/components/navigation";
 import clsx from "clsx";
 import { Inter, Pacifico, Signika } from "next/font/google";
 import "./globals.css";
@@ -32,6 +33,7 @@ export default function RootLayout({ children }) {
 					"bg-isBlack font-sans"
 				)}
 			>
+				<DynamicBar />
 				{children}
 			</body>
 		</html>

@@ -48,7 +48,7 @@ module.exports = {
 				isTealDarkEmphasis: "rgb(93, 230, 255)",
 				isCyanDarkEmphasis: "rgb(112, 215, 255)",
 				isBlueDarkEmphasis: "rgb(64, 156, 255)",
-				isIndgioDarkEmphasis: "rgb(125, 122, 255)",
+				isIndigoDarkEmphasis: "rgb(125, 122, 255)",
 				isPurpleDarkEmphasis: "rgb(218, 143, 255)",
 				isPinkDarkEmphasis: "rgb(255, 100, 130)",
 				isBrownDarkEmphasis: "rgb(181, 148, 105)",
